@@ -1,3 +1,3 @@
-#Demo Project README
+#This is a cool thingy
 
-This is a simple readme file
+#Yay
